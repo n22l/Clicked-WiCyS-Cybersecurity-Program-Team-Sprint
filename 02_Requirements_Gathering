@@ -1,0 +1,75 @@
+# A mock scenario of the #42 team's first deep-dive discussion with Nell Crain, CTO, and Rhea Ripley, CIO. 🛡️💼
+
+## Asset Management 🛡️📊
+
+1. **What are the key assets and data that need protection?**
+2. **What are your primary assets that need protection? Which assets are considered business-critical and why?**
+3. **Is there an inventory of assets?**
+4. **Where is data being stored?**
+5. **How is your IT Infrastructure structured? Are you utilizing on-premises data centers, cloud services, a hybrid cloud, or a multicloud environment?**
+6. **Based on what can be done with Lemonade assets, what are some current threats that the company is concerned about or have there been any past cyber threats and attacks?**
+
+## Compliance and Regulatory Requirements 📜⚖️
+
+1. **What regulatory requirements or standards must we comply with?**
+2. **What local, regional, national, and global laws and regulations does Lemonade need to adhere to?**
+3. **What policies will need to be made in order to meet these standards?**
+4. **How do you currently manage compliance, and what challenges do you face in this area?**
+5. **What are the local, regional, national, and global laws and regulations that Lemonade needs to adhere to?**
+
+## Data Classification and Protection 🔐🗂️
+
+1. **Please tell me about your approach to classifying information.**
+2. **Can you explain your current data classification system?**
+3. **What security controls are in place for each data classification level, particularly for PII?**
+4. **How can we rank and classify company data based on its sensitivity and the amount of security control needed to protect it?**
+5. **How is data backup currently handled, and how frequently are recovery drills held to guarantee data integrity?**
+
+## AI Model Security 🤖🔒
+
+1. **What is your biggest security concern about the recently launched AI model?**
+2. **What is the predicted scope of the AI model?**
+3. **What particular risks or sectors is the organization covered by cyber insurance, and does it currently have any plans to purchase it?**
+4. **How do you plan to secure the AI models against threats such as AI poisoning and model deviations?**
+
+## Incident History and Challenges 🚨🛠️
+
+1. **Have you faced any cybersecurity challenges or breaches in the past?**
+2. **Based on what can be done with Lemonade assets, what are some current threats that the company is concerned about or have there been any past cyber threats and attacks?**
+3. **How do we currently handle data breaches or incidents, if at all?**
+
+## Upcoming Projects and Enhancements 📅🔧
+
+1. **Are any upcoming projects requiring enhanced cybersecurity solutions besides the AI model?**
+2. **What internal resources (staff, technology) do we have available to support this initiative?**
+
+## Risk Management and Prioritization ⚠️📈
+
+1. **How do you now prioritize risks in relation to the objectives of the company and what is your strategy for risk management?**
+2. **What metrics will be most important in assessing the cybersecurity program's effectiveness, and how will you measure its success?**
+3. **What types of cyber threats are we most concerned about based on our current data and operations?**
+
+## Program Resources and Constraints 💰👥
+
+1. **What budget and personnel resources have been allocated for the cybersecurity program?**
+2. **What budgetary constraints should we consider when developing the cybersecurity program?**
+3. **What internal resources (staff, technology) do we have available to support this initiative?**
+
+## Employee Training and Security Culture 📚🧠
+
+1. **How are you planning to increase knowledge of cybersecurity throughout the company, particularly in relation to social engineering and phishing?**
+2. **What level of cybersecurity awareness exists among employees and management?**
+3. **What is your strategy to build a strong security culture within the organization?**
+
+## Business Continuity and Disaster Recovery 🏢⏱️
+
+1. **How is your business continuity plan currently structured?**
+2. **How is data backup currently handled, and how frequently are recovery drills held to guarantee data integrity?**
+3. **What is your timeline for the completion of the cybersecurity plan?**
+
+## Additional Considerations 🌐🔍
+
+1. **What policies will need to be made in order to meet these standards?**
+2. **What are the most critical assets that need protection within our organization?**
+3. **How do we ensure compliance with evolving cybersecurity regulations across different regions?**
+4. **What security frameworks or standards are you currently utilizing or planning to adopt?**
