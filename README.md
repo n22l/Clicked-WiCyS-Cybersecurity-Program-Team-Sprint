@@ -1,7 +1,7 @@
 # Clicked-WiCyS-Cybersecurity-Program-Team-Sprint
 ## Overview
 
-This repository contains the comprehensive cybersecurity program developed for Lemonade, an online insurance company. The program is structured into five key phases to ensure a robust and effective security posture.
+A Team Sprint offers a dynamic and collaborative learning journey, where participants engage in real-world business challenges within teams or accountability groups, guided by Clicked Coaches. This experience enables participants to produce tangible deliverables contributing to a comprehensive solution or recommendation, honing professional skills and gaining practical experience. 💡🤝
 
 ## Table of Contents
 
